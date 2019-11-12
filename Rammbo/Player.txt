@@ -1,0 +1,5 @@
+inw_Chung 500
+chung_lib 250
+Steve_Roger 170
+John_Cena 120
+I'm_batman 50

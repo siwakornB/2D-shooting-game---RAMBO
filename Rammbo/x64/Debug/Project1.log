@@ -1,0 +1,12 @@
+﻿  enemy.cpp
+d:\source\project1\project1\enemy.h(31): warning C4305: 'initializing': truncation from 'double' to 'const float'
+d:\source\project1\project1\enemy.cpp(16): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+d:\source\project1\project1\enemy.cpp(19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\source\project1\project1\enemy.cpp(31): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+d:\source\project1\project1\enemy.cpp(57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\source\project1\project1\enemy.cpp(59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\source\project1\project1\enemy.cpp(75): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\source\project1\project1\enemy.cpp(115): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\source\project1\project1\enemy.cpp(117): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Project1.vcxproj -> D:\source\Project1\x64\Debug\Project1.exe
+  Project1.vcxproj -> D:\source\Project1\x64\Debug\Project1.pdb (Partial PDB)
